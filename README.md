@@ -11,3 +11,5 @@ Michael Cornell is a student at Duke Kunshan University. His interests lie at th
 # Sample Course Projects
 
 [Problem Set 1](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-MichaelCornell)
+
+[Collab Notebook](https://colab.research.google.com/drive/1UMjh1YQ5M-0-ItNjALH8jQE2FmG7qo74?usp=sharing)
